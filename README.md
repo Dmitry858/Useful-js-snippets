@@ -18,3 +18,5 @@
 **scrollTo.js** - плавный переход по якорным ссылкам.
 
 **getDaysDiffBetweenDates.js** - получение разницы между двумя датами в днях.
+
+**MutationObserver.js** - пример использования MutationObserver.
