@@ -20,3 +20,5 @@
 **getDaysDiffBetweenDates.js** - получение разницы между двумя датами в днях.
 
 **MutationObserver.js** - пример использования MutationObserver.
+
+**IntersectionObserver.js** - пример использования IntersectionObserver.
