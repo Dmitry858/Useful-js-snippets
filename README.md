@@ -22,3 +22,5 @@
 **MutationObserver.js** - пример использования MutationObserver.
 
 **IntersectionObserver.js** - пример использования IntersectionObserver.
+
+**getParams.js** - получение всех GET-параметров из текущего URL страницы.
