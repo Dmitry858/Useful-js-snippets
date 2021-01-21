@@ -24,3 +24,5 @@
 **IntersectionObserver.js** - пример использования IntersectionObserver.
 
 **getParams.js** - получение всех GET-параметров из текущего URL страницы.
+
+**escapeHtml.js** - функция, преобразующая специальные символы в HTML-сущности.
